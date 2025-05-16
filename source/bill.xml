@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Item>
+    <sno>1</sno>
+    <ItemName>keyboard</ItemName>
+    <Description>computer item</Description>
+    <Price>200</Price>
+    <Date>2023-05-28T21:18:10.150286+05:30</Date>
+  </Item>
+</DocumentElement>

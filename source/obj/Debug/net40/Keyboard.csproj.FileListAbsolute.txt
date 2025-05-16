@@ -1,0 +1,14 @@
+D:\source\obj\Debug\net40\Keyboard.csproj.AssemblyReference.cache
+D:\source\obj\Debug\net40\frmBill.resources
+D:\source\obj\Debug\net40\Keyboard.Form1.resources
+D:\source\obj\Debug\net40\Keyboard.Resource1.resources
+D:\source\obj\Debug\net40\MainForm.resources
+D:\source\obj\Debug\net40\Properties.Resources.resources
+D:\source\obj\Debug\net40\Keyboard.csproj.GenerateResource.cache
+D:\source\obj\Debug\net40\Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\obj\Debug\net40\Keyboard.csproj.CoreCompileInputs.cache
+D:\source\bin\Debug\net40\Keyboard.exe.config
+D:\source\bin\Debug\net40\Keyboard.exe
+D:\source\bin\Debug\net40\Keyboard.pdb
+D:\source\obj\Debug\net40\Keyboard.exe
+D:\source\obj\Debug\net40\Keyboard.pdb
